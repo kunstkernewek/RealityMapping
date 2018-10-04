@@ -5,18 +5,18 @@ Today will be documented at: _WWW LINK HERE_
 ## Outline
 
 1. Somebody is in New York awaiting your instruction
-2. they are preprogrammed to ensure their own safety
-3. it is up to you to navigate and document the landscape
-4. they are available for 60 minutes from start of transition
-5. Explore different roles
+2. it is up to you to navigate and document the landscape 
+3. they are preprogrammed to ensure their own safety (but that is all they know)
+4. they are available for 60 minutes from start of transmission
+5. Imagine you are inside their head with them - You are invited to explore different roles
 
 ## Roles
 
-- **Navigator** - Facilitates the event
+- **Navigator** - Facilitates the event and collects visitor documentation
 - **Pilot** - Elsewhere on the globe awaiting your instructions
 - **Commander** - Provides the Pilot with instructions
-- **Spectator** - Projects the story inside their mind
-- **Documenter** - Draws ideas out of their mind onto paper for collection into the archive
+- **Spectator** - Builds an environment and story inside their mind
+- **Documenter** - Draws ideas out of their mind for collection into the archive
 
 ## Instructions
 
@@ -33,7 +33,7 @@ Today will be documented at: _WWW LINK HERE_
 1. Answer the transmission
 2. Answer any questions
 3. Do as instructed
-4. Update program as requested
+4. Update program as requested (learn how to understand the commands)
 5. Disconnect after 60 mins
 
 **Commander**
@@ -85,3 +85,11 @@ Today will be documented at: _WWW LINK HERE_
 3. Information Badge
 4. Timer
 5. Camera
+
+## Thoughts
+
+1. Remote control politics
+2. Who are Alexa, Siri and Google assistant
+3. Your data footprint and data farming
+4. Open and proprietry systems
+5. Fun 
