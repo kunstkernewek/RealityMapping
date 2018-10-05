@@ -1,6 +1,6 @@
 # Information Sheet
 
-Today will be documented at: _WWW LINK HERE_
+Today will be documented at: http://bit.do/nymap
 
 ## Outline
 
@@ -93,3 +93,5 @@ Today will be documented at: _WWW LINK HERE_
 3. Your data footprint and data farming
 4. Open and proprietry systems
 5. Fun 
+
+![QR Code](http://chart.apis.google.com/chart?cht=qr&chs=100x100&choe=UTF-8&chld=H%7C0&chl=http://bit.do/nymap)
