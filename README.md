@@ -1,5 +1,7 @@
 # Information Sheet
 
+Authentic Virtual Mapping Experiment #1 - Falmouth in New York
+
 Today will be documented at: http://bit.do/nymap
 
 ## Outline
